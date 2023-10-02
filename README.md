@@ -1,2 +1,1 @@
-# .github
-Internet marketing corporation 
+
